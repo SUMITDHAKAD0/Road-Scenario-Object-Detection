@@ -7,6 +7,7 @@
  - **Resize Frames:** Change image dimensions while preserving aspect ratio, often done to prepare data for machine learning models or display.
  - **Remove Duplicates:** Identify and delete duplicate or unwanted images from the dataset.
  - **Labeling/Annotating Images:** Annotate images with bounding boxes and class labels. Common formats for annotations include JSON, XML, YOLO, COCO, or PASCAL VOC.
+ - [LabelImg](https://github.com/HumanSignal/labelImg)
  - **Assign Labels:** Define class labels for objects, like "car," "bike," "person," "green_traffic_board," "traffic_signal," and "traffic_signs."
  - **Converting to YOLO Format:** Convert annotations into YOLO format by creating .txt files for each annotated image. The format includes class ID, center coordinates, width, and height normalized to [0, 1].
 
