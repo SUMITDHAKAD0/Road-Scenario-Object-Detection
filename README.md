@@ -27,7 +27,7 @@ Certainly, here's a summary of the data preprocessing and model building steps y
 
 **Model Building:**
 
-You mentioned two variants of the YOLOv8 object detection model:
+You mentioned two variants of the [YOLOv8](https://github.com/ultralytics/ultralytics) object detection model:
 
 - **YOLO8n:** This is a lightweight variant designed for optimal performance on edge devices. It's tailored for scenarios where computational resources are limited but still aims to provide object detection capabilities.
 
